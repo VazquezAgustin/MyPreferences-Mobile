@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Agustin Vazquez\\Documents\\android-unit-test-example\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Agustin Vazquez\\Documents\\android-unit-test-example\\app\\src\\main\\res\\values-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "17,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "706,763,825",
+                        "endColumns": "55,60,44",
+                        "endOffsets": "757,819,865"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,111,172",
+                        "endColumns": "55,60,44",
+                        "endOffsets": "106,167,212"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Agustin Vazquez\\Documents\\android-unit-test-example\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "744",
+                        "endColumns": "78",
+                        "endOffsets": "818"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "217",
+                        "endColumns": "78",
+                        "endOffsets": "291"
+                    }
+                }
+            ]
+        }
+    ]
+}

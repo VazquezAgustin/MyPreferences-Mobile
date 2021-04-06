@@ -1,0 +1,10 @@
+com/example/android/testing/unittesting/BasicSample/SharedPreferenceEntry.java
+ com.example.android.testing.unittesting.BasicSample.SharedPreferenceEntry
+com/example/android/testing/unittesting/BasicSample/BuildConfig.java
+ com.example.android.testing.unittesting.BasicSample.BuildConfig
+com/example/android/testing/unittesting/BasicSample/EmailValidator.java
+ com.example.android.testing.unittesting.BasicSample.EmailValidator
+com/example/android/testing/unittesting/BasicSample/MainActivity.java
+ com.example.android.testing.unittesting.BasicSample.MainActivity
+com/example/android/testing/unittesting/BasicSample/SharedPreferencesHelper.java
+ com.example.android.testing.unittesting.BasicSample.SharedPreferencesHelper

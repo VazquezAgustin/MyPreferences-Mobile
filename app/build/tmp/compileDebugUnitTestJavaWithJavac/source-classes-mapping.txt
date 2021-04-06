@@ -1,0 +1,4 @@
+com/example/android/testing/unittesting/BasicSample/EmailValidatorTest.java
+ com.example.android.testing.unittesting.BasicSample.EmailValidatorTest
+com/example/android/testing/unittesting/BasicSample/SharedPreferencesHelperTest.java
+ com.example.android.testing.unittesting.BasicSample.SharedPreferencesHelperTest
